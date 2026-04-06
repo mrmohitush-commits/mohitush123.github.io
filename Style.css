@@ -1,0 +1,30 @@
+img {
+  display: block;
+  margin: 0;
+}.page {
+  margin: 0 !important;
+}
+
+#viewerContainer {
+  gap: 0 !important;
+}button {
+  background: linear-gradient(45deg, #6c5ce7, #00cec9);
+  border: none;
+  color: white;
+  padding: 10px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.8;
+}iframe {
+  border: none;
+  margin: 0;
+  padding: 0;
+  display: block;
+}
+
+body {
+  margin: 0;
+}
